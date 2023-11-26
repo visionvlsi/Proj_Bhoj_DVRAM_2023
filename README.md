@@ -1,1 +1,1 @@
-# Proj_Bhoj_DVRAM_2023
+# Proj_Bhoj_DVRAM_ASIC_2023
